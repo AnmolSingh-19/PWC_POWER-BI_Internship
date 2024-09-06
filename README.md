@@ -52,6 +52,7 @@
 
 ✅ These insights can serve as a foundation for further analysis and decision-making aimed at improving customer service operations and enhancing overall customer satisfaction.
 
+**Overview of Dashboard**
 ![Call Center Dashboard](https://github.com/user-attachments/assets/3c3e0fb4-0f0f-4f9d-b8c4-e37f8f206776)
 
 
@@ -126,7 +127,62 @@ Monthly charges vary across customers, with some paying as low as $20 and others
 
 • Customers should be subscribed to more services & plans with longer tenures which are offered by the company's.
 
+**Overview of Dashboard**
 ![Screenshot 2024-09-06 161801](https://github.com/user-attachments/assets/7ed6811e-ab85-47b7-9832-e1df1683c474)
+
+
+## Task 3 : Diversity & Inclusion Dashboard
+
+► As a part of the PwC Switzerland Virtual Internship Program offered by Forage, I have developed a "𝐃𝐢𝐯𝐞𝐫𝐬𝐢𝐭𝐲 & 𝐈𝐧𝐜𝐥𝐮𝐬𝐢𝐨𝐧" Dashboard using Power BI.
+
+► Telecom client partners with PwC Switzerland to boost executive gender balance through diversity and inclusion.
+
+► The task involves developing key performance indicators (KPIs) related to hiring, promotion, performance, and turnover, along with creating a visualization to track and communicate progress.
+
+► Goal: A valued and inclusive environment for all teams.
+
+During the project below points were covered in dashboard :-
+
+1] No. of Employee
+
+2] No. of Men Employee
+
+3] No. of Female Employee
+
+4] Hired Employees Men vs Female.
+
+5] Employees Promoted (FY20) & (FY21)
+
+6] Male Employees Promoted (FY20) & (FY21)
+
+7] Female Employees Promoted (FY20) & (FY21)
+
+8] Age group distribution 
+
+9] Average Performance Rating Men
+
+10] Average Performance Rating Women
+
+➡️ Key Performance Indicators ( KPI'S) :
+➤ 𝐇𝐢𝐫𝐢𝐧𝐠:
+
+By tracking % of hires Men vs. Women, we gain visibility into recruitment practices, ensuring a balanced workforce from the outset.
+
+➤ 𝐏𝐫𝐨𝐦𝐨𝐭𝐢𝐨𝐧 :
+
+Measuring % of promotions- Men vs. Women, identifying and celebrating talent, ensuring opportunities are equitable and merit-based.
+
+➤ 𝐏𝐞𝐫𝐟𝐨𝐫𝐦𝐚𝐧𝐜𝐞 :
+
+Assessing average performance ratings - Men vs. Women, pinpoint potential biases and create a fair evaluation system.
+
+➤ 𝐓𝐮𝐫𝐧𝐨𝐯𝐞𝐫 :
+
+Monitoring % turnover - Men vs. Women, identify areas of concern, ensuring our workplace retains diverse talent.
+
+» The final goal is the practical approach to address gender balance challenges in the workplace. The goal is not only to set strategic objectives but also to measure, analyze, and continuously improve diversity and inclusion initiatives.
+
+**Overview of Dashboard**
 
 
 
