@@ -124,5 +124,8 @@ Monthly charges vary across customers, with some paying as low as $20 and others
 
 • As the churn rate is higher for internet services in fiber optic, telecom company should focus more on retaining those customers and improve in that area.
 
-• Customers should be subscribed to more services & plans with longer tenures which are offered by the company's
+• Customers should be subscribed to more services & plans with longer tenures which are offered by the company's.
+
+https://github.com/AnmolSingh-19/PWC_POWER-BI_Internship/issues/2#issue-2509594956
+
 
