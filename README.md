@@ -53,6 +53,7 @@
 ✅ These insights can serve as a foundation for further analysis and decision-making aimed at improving customer service operations and enhancing overall customer satisfaction.
 
 **Overview of Dashboard**
+
 ![Call Center Dashboard](https://github.com/user-attachments/assets/3c3e0fb4-0f0f-4f9d-b8c4-e37f8f206776)
 
 
@@ -128,6 +129,7 @@ Monthly charges vary across customers, with some paying as low as $20 and others
 • Customers should be subscribed to more services & plans with longer tenures which are offered by the company's.
 
 **Overview of Dashboard**
+
 ![Screenshot 2024-09-06 161801](https://github.com/user-attachments/assets/7ed6811e-ab85-47b7-9832-e1df1683c474)
 
 
@@ -183,6 +185,11 @@ Monitoring % turnover - Men vs. Women, identify areas of concern, ensuring our w
 » The final goal is the practical approach to address gender balance challenges in the workplace. The goal is not only to set strategic objectives but also to measure, analyze, and continuously improve diversity and inclusion initiatives.
 
 **Overview of Dashboard**
+
+![Screenshot 2024-09-06 163304](https://github.com/user-attachments/assets/f2244a48-8a38-4c9d-9415-85da4e97719d)
+
+
+
 
 
 
