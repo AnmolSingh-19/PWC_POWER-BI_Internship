@@ -189,6 +189,7 @@ Monitoring % turnover - Men vs. Women, identify areas of concern, ensuring our w
 ![Screenshot 2024-09-06 163304](https://github.com/user-attachments/assets/f2244a48-8a38-4c9d-9415-85da4e97719d)
 
 
+![Screenshot 2024-09-06 163513](https://github.com/user-attachments/assets/eb68b3a0-f325-4cc5-bb15-ee9dbb60d34c)
 
 
 
