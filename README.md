@@ -126,6 +126,7 @@ Monthly charges vary across customers, with some paying as low as $20 and others
 
 • Customers should be subscribed to more services & plans with longer tenures which are offered by the company's.
 
-https://github.com/AnmolSingh-19/PWC_POWER-BI_Internship/issues/2#issue-2509594956
+![Screenshot 2024-09-06 161801](https://github.com/user-attachments/assets/7ed6811e-ab85-47b7-9832-e1df1683c474)
+
 
 
